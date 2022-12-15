@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2022-12-14T23:37:07.881Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.2" etag="Oj_8Z3jO3bkZnoFR8dRM" type="github"><diagram id="cHsD0Ep_5Ejkh09MUs5G">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-15T00:13:46.868Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.2" etag="mGbnHAGBeqq5_Ii7dV5n" type="github">
+  <diagram id="w16jlVm2KCzKwbWZ8CDV" name="Página-1">
+    <mxGraphModel dx="880" dy="1653" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DgEqQtwQa1hrDViQusFb-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-1140" width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DgEqQtwQa1hrDViQusFb-3" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;OBJETIVO: APRENDER FLUXOGRAMA&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=16;" vertex="1" parent="1">
+          <mxGeometry x="100" y="-1110" width="370" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DgEqQtwQa1hrDViQusFb-26" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;" edge="1" parent="1" source="DgEqQtwQa1hrDViQusFb-4" target="DgEqQtwQa1hrDViQusFb-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DgEqQtwQa1hrDViQusFb-4" value="Início&lt;br&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=19;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="287.5" y="-1050" width="190" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DgEqQtwQa1hrDViQusFb-27" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;" edge="1" parent="1" source="DgEqQtwQa1hrDViQusFb-5" target="DgEqQtwQa1hrDViQusFb-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DgEqQtwQa1hrDViQusFb-5" value="Cadastrar no canal Devaria" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=19;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="287.5" y="-930" width="195" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DgEqQtwQa1hrDViQusFb-28" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=19;" edge="1" parent="1" source="DgEqQtwQa1hrDViQusFb-6" target="DgEqQtwQa1hrDViQusFb-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DgEqQtwQa1hrDViQusFb-6" value="Inscrever-se no curso Devaria" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=19;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="287.5" y="-790" width="195" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DgEqQtwQa1hrDViQusFb-7" value="Estudar Fluxograma&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontSize=19;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="287.5" y="-660" width="195" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DgEqQtwQa1hrDViQusFb-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontSize=19;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="DgEqQtwQa1hrDViQusFb-8" target="DgEqQtwQa1hrDViQusFb-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="-470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DgEqQtwQa1hrDViQusFb-22" value="Sim" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=19;" vertex="1" connectable="0" parent="DgEqQtwQa1hrDViQusFb-19">
+          <mxGeometry x="0.1467" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DgEqQtwQa1hrDViQusFb-29" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.008;entryY=0.44;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=19;" edge="1" parent="1" source="DgEqQtwQa1hrDViQusFb-8" target="DgEqQtwQa1hrDViQusFb-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="190" y="-470" />
+              <mxPoint x="190" y="-560" />
+              <mxPoint x="190" y="-616" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DgEqQtwQa1hrDViQusFb-30" value="Não" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=19;" vertex="1" connectable="0" parent="DgEqQtwQa1hrDViQusFb-29">
+          <mxGeometry x="0.0996" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DgEqQtwQa1hrDViQusFb-8" value="Aprendeu fluxograma?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;fontSize=19;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="310" y="-550" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="DgEqQtwQa1hrDViQusFb-21" value="Fim" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fontSize=19;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="620" y="-510" width="170" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
